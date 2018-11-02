@@ -6,5 +6,5 @@ bash
 
 ## Usage
 Put it in cpuminer-multi directory and run
-$sudo chmod 755 benchmark.sh
+$ sudo chmod 755 benchmark.sh
 $ ./benchmark.sh
