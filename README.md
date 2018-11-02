@@ -5,6 +5,4 @@ A simple script to log --benchtest results of tpruvot's cpuminer-multi to "bench
 bash
 
 ## Usage
-Put it in cpuminer-multi directory and run
-$ sudo chmod 755 benchmark.sh
-$ ./benchmark.sh
+Put it in cpuminer-multi directory and run the script
