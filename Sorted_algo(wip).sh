@@ -2,7 +2,7 @@
 #! /usr/bin/env bash
 
 DIR=benchmarks
-TIME=60
+TIME=120
 
 mkdir -p $DIR
 touch $DIR/comp.txt
